@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bernhauser, Androider
+- 👋 Hi, I’m Vincent Hauser, Androider
 
 <!---
 bernhauser/bernhauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
